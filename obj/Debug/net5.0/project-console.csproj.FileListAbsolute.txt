@@ -1,0 +1,15 @@
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/project-console.deps.json
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/project-console.runtimeconfig.json
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/project-console.runtimeconfig.dev.json
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/project-console.dll
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/ref/project-console.dll
+/Users/anggaadypratama/Development/dotnet/project-console/bin/Debug/net5.0/project-console.pdb
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.csprojAssemblyReference.cache
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.AssemblyInfoInputs.cache
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.AssemblyInfo.cs
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.csproj.CoreCompileInputs.cache
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.dll
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/ref/project-console.dll
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.pdb
+/Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.genruntimeconfig.cache

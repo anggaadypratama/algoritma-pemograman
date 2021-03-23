@@ -9,10 +9,6 @@ namespace ProjectConsole{
         //object tugas
 
 
-
-
-
-
     }
 }
 }

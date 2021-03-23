@@ -1,6 +1,6 @@
 namespace tugas.Quiz.QuizDua
 {
-    public class Bulan:Utilities
+    public class Bulan : Utilities
     {
         public Bulan(){
             int bulan = Input("Masukan Bulan Ke Berapa : ", IsInt: true);

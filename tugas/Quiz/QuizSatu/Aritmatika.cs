@@ -1,5 +1,5 @@
 namespace tugas.Quiz.QuizSatu{
-    public class Aritmatika:Utilities{
+    public class Aritmatika : Utilities{
 
         private int nilaiPertama, nilaiKedua;
         private string kondisi;

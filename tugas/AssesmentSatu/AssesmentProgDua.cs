@@ -4,7 +4,7 @@ namespace tugas.AssesmentSatu{
     class AssesmentProgDua : Utilities{
         private Tuple<double, string> LuasLingkaran(){
             this.Output("Kamu Memilih Luas Lingkaran \n");
-            double jariJari = this.Input("Masukan Jari-Jari", IsDouble: true);
+            double jariJari = this.Input("Masukan Jari-Jari : ", IsDouble: true);
             return Tuple.Create(Math.Round(Math.PI * Math.Pow(jariJari, 2 ), 2), "Lingkaran");
          }
 
@@ -21,14 +21,27 @@ namespace tugas.AssesmentSatu{
          }
 
          public void HitungLuas(){
-             this.Output(" 1. Hitung Luas Lingkaran \n 2. Hitung Luas persegi panjang \n 3. Hitung luas segitiga");
+             this.Output(" 1. Hitung Luas Lingkaran \n 2. Hitung Luas persegi panjang \n 3. Hitung luas segitiga\n");
              double inputmenu = this.Input("Pilih menu (1/2/3) : ", IsDouble: true);
-             dynamic hasil =    (inputmenu == 1) ? LuasLingkaran() :
-                                (inputmenu == 2) ? LuasPersegiPanjang() :
-                                (inputmenu == 3) ? LuasSegitiga() :
-                                "Tidak ada menu yang dimaksud";
+             dynamic hasil = inputmenu switch {
+                 1 => LuasLingkaran(),
+                 2 => LuasPersegiPanjang(),
+                 3 => LuasSegitiga(),
+                 _ => "Tidak ada menu yang dimaksud"
+             };
 
             Output((inputmenu >= 1 && inputmenu <= 3 ? ($"Luas {hasil!.Item2} adalah  : {hasil!.Item1}"): hasil));
+         }
+
+         public void LoopLuas(){
+             while(true){
+                 HitungLuas();
+                 string kondisi = this.Input("\n\nIngin Hitung Kembali ? (y/t) : ").ToLower();
+                 if(kondisi == "t" || kondisi == "tidak") {
+                     this.Output("Program Berhenti");
+                     break;
+                 };
+             }
          }
     }
 }

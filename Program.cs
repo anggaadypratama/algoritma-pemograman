@@ -11,7 +11,9 @@ namespace ProjectConsole{
         static void Main(string[] args) {
             //object tugas
 
-            
+            PraktikumSatu ps = new PraktikumSatu();
+            ps.modifPerulanganDua();
+
         }
     }
 }

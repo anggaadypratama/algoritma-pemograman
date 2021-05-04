@@ -13,3 +13,18 @@
 /Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/ref/project-console.dll
 /Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.pdb
 /Users/anggaadypratama/Development/dotnet/project-console/obj/Debug/net5.0/project-console.genruntimeconfig.cache
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.csprojAssemblyReference.cache
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.AssemblyInfoInputs.cache
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.AssemblyInfo.cs
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.csproj.CoreCompileInputs.cache
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.dll
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/ref/project-console.dll
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.pdb
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/project-console.deps.json
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/project-console.runtimeconfig.json
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/project-console.runtimeconfig.dev.json
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/project-console.dll
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/ref/project-console.dll
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/bin/Debug/net5.0/project-console.pdb
+/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/Debug/net5.0/project-console.genruntimeconfig.cache

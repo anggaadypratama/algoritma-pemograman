@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anggaadypratama/Development/dotnet/project-console/project-console.csproj": {}
+    "/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/project-console.csproj": {}
   },
   "projects": {
-    "/Users/anggaadypratama/Development/dotnet/project-console/project-console.csproj": {
+    "/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/project-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anggaadypratama/Development/dotnet/project-console/project-console.csproj",
+        "projectUniqueName": "/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/project-console.csproj",
         "projectName": "project-console",
-        "projectPath": "/Users/anggaadypratama/Development/dotnet/project-console/project-console.csproj",
+        "projectPath": "/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/project-console.csproj",
         "packagesPath": "/Users/anggaadypratama/.nuget/packages/",
-        "outputPath": "/Users/anggaadypratama/Development/dotnet/project-console/obj/",
+        "outputPath": "/Volumes/Angga SSD/Angga File/Produktif/Programming/Project/Kuliah/algoritma-pemograman/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anggaadypratama/.nuget/NuGet/NuGet.Config"
